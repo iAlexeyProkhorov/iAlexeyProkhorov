@@ -6,7 +6,7 @@ I'm is Ukraininan .NET developer. My favorite stuff:
 
 ⌨ I'm currently working on qBoSlider updates and few new nopCommerce plugins. They will be absolutely free as my previous plugins 😃.
 
-🤔 I’m looking for help with bug detecting in all my software. Nobody write me about issues, so I still think that I writing best soft in the world😅 (no 🤨). So please feel free to write about founded bugs projects issues or discussions😉.
+🤔 I’m looking for help with bug detecting in all my software. Nobody write me about issues, so I still think that I writing best soft in the world😅 (no 🤨). So please feel free to write about founded bugs in my projects issues or discussions😉.
 <!--
 **iAlexeyProkhorov/iAlexeyProkhorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
