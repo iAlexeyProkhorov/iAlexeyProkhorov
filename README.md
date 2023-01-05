@@ -4,7 +4,7 @@ I'm is Ukraininan .NET developer. My favorite stuff:
 * .NET Frameword and .NET Core development 😁;
 * JS and jQuery sometimes 😑;
 
-⌨ I'm currently working on qBoSlider updates and few new nopCommerce plugins. They will be absolutely free as my previous plugins 😃.
+⌨ Currently I working with some new K2 smartform controls and 'Nova Poshta' API client 😀.
 
 🤔 I’m looking for help with bug detecting in all my software. Nobody writes me about issues, so I still think that I writing best soft in the world😅 (no 🤨). So please feel free to write about founded bugs in my projects issues or discussions😉.
 <!--
