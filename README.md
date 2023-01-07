@@ -6,7 +6,7 @@ I'm is Ukraininan .NET developer. My favorite stuff:
 
 ⌨ Currently I working with some new K2 smartform controls and 'Nova Poshta' API client 😀.
 
-🤔 I’m looking for help with bug detecting in all my software. Nobody writes me about issues, so I still think that I writing best soft in the world😅 (no 🤨). So please feel free to write about founded bugs in my projects issues or discussions😉.
+🤔 I’m looking for help with bug detecting in all my software. Nobody writes me about issues, so I still think that I write best soft in the world😅 (no 🤨). So please feel free to write about founded bugs in my projects issues or discussions😉.
 <!--
 **iAlexeyProkhorov/iAlexeyProkhorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
