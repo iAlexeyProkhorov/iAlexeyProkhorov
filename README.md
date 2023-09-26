@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm is Ukraininan .NET developer. My favorite stuff:
 * SQL databases 😄;
-* .NET Frameword and .NET Core development 😁;
+* .NET Framework and .NET Core development 😁;
 * JS and jQuery sometimes 😑;
 
 ⌨ Currently I working with some new K2 smartform controls and 'Nova Poshta' API client 😀.
